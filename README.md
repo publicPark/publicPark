@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @publicPark
-- 👀 I’m interested in cleaning my room.
-- 📫 How to reach me ...
+- 👀 I’m interested in cleaning my room
 
 <!---
 publicPark/publicPark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
